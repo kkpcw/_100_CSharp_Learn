@@ -12,6 +12,7 @@ summary:
 	크크PC와 함께하는 아름다운 IT 이야기
 
 
+
 ## [100_CSharp] HelloWorld 작성하기 (테스트)
 	이번 시간은 Hello World를 작성해 보겠습니다.
 
@@ -38,3 +39,7 @@ Hello World!!
 ![00000003](_md_helloworld/00000003.png)
 
 ![Video](https://youtu.be/PRTC9-MmMb4?si=ua5YHO0NFQJBZeKP)
+
+
+## Note
+    _md_helloworld와 같은 링크 디렉토리 이름은 소문자로 해야한다.

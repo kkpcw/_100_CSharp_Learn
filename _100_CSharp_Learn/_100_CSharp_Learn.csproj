@@ -52,9 +52,9 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <Content Include="_md_HelloWorld\00000003.png" />
-    <Content Include="_md_HelloWorld\__Begin__.PNG" />
-    <Content Include="_md_HelloWorld\__End__.PNG" />
+    <Content Include="_md_helloworld\00000003.png" />
+    <Content Include="_md_helloworld\__Begin__.PNG" />
+    <Content Include="_md_helloworld\__End__.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
